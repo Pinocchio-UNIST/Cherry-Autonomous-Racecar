@@ -9,6 +9,16 @@
 | 외부전원(배터리) | | 1 | | 추가 바람 |
 | Crucial MX500 500GB | 75,000원 | 1 | http://prod.danawa.com/info/?pcode=5791864 | |
 
+## 차량 부품
+
+| 부품명 | 가격 | 수량 | 링크 | 비고 |
+|:-------|:----:|:----:|:-----|:-----|
+| Traxxas 58034-1 Slash | 340,000원 | 1 | https://search.shopping.naver.com/search/all?query=Traxxas+58034-1-MARK+1%2F10-Scale+2WD+Short+Course | 수량 확인 필요 |
+| Traxxas 2976 AC to DC Converter, 40 Watt | 35,000원 | 1 | https://www.amazon.com/dp/B00P7X4S3K/ | 해외직구 |
+| XSR Shock Set (4), Silver: ST, NRU | 60,000원 | 1 | https://www.amazon.com/dp/B002IJ4DRW | 해외직구 |
+| 
+
+
 ## https://goo.gl/QgxjAT
 # Circuit Design
 ## [Teensy ESC & steering servo design](/pictures/CAR_Teensy_ESC_Steering_1Board_bb.png)
