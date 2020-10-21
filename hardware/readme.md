@@ -22,6 +22,9 @@
 
 | 부품명 | 가격 | 수량 | 링크 | 비고 |
 |:-------|:----:|:----:|:-----|:-----|
+| RPLIDAR A2M8 | 370,000원 | 1 | https://www.robotshop.com/en/rplidar-a2m8-360-laser-scanner.html | 2D 360도 LIDAR |
+| Intel RealSense T265 | 230,000원 | 1 | https://store.intelrealsense.com/ | Tracking Camera |
+| Intel RealSense D435 | 200,000원 | 1 | https://store.intelrealsense.com/ | SR305(9만원)로 대체 가능 |
 
 
 ## https://goo.gl/QgxjAT
